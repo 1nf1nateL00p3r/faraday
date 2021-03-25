@@ -11,3 +11,4 @@ tornado>=4.5.1
 tqdm>=4.15.0
 whoosh>=2.7.4
 Flask-Restless>=0.17.0
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
